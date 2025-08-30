@@ -6,5 +6,8 @@ export { AuthLayout } from "./auth/AuthLayout";
 // Layout components
 export { Navigation } from "./layout/Navigation";
 
+// Poll components
+export { VotingForm, PollSummary } from "./poll";
+
 // Shared components
 export { LoadingSpinner } from "./shared/LoadingSpinner";
